@@ -1,0 +1,44 @@
+1. Pendahuluan
+2. Pengenalan PHP
+3. Menginstall PHP
+4. Program Hello Word
+5. Tipe Data Number => int, float
+6. Tipe Data Boolean => true, false
+7. Tipe Data String
+8. Variable
+9. Constant
+10. Data null
+11. Tipe Data Array => Numerik, Assosatif, Array Dimensi / Array Dalam Array
+12. Operator Aritmatika
+13. Operator Penugasan
+14. Operator Perbandingan
+15. Operator Logika
+16. Increment & Decrement
+17. Operator Array
+18. Expression, Statement & Block
+19. Manipulasi String
+20. if Statement
+21. switch Statement
+22. ternary Operator
+23. null Coalescing Operator
+24. for Loop
+25. while Loop
+26. do while Loop
+27. break & continue
+28. for each Loop
+29. goto Operator
+30. function
+31. function Argument
+32. function return Value
+33. Variable function
+34. Anonymous function
+35. Arrow function
+36. Callback function
+37. Recursive function
+38. Komentar
+39. String function
+40. array function
+41. Is function
+42. require Dan include
+43. Variable Scope
+44. Reference
